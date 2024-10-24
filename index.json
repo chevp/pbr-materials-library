@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "id": "stone01",
+      "name": "Rough Stone",
+      "category": "Stone",
+      "textures": {
+        "albedo": "materials/stone01/albedo.png",
+        "normal": "materials/stone01/normal.png",
+        "roughness": "materials/stone01/roughness.png",
+        "ao": "materials/stone01/ao.png",
+        "height": "materials/stone01/height.png",
+        "metallic": "materials/stone01/metallic.png"
+      },
+      "resolutions": ["512x512", "1024x1024", "2048x2048"],
+      "default_resolution": "1024x1024"
+    },
+    {
+      "id": "wood01",
+      "name": "Polished Wood",
+      "category": "Wood",
+      "textures": {
+        "albedo": "materials/wood01/albedo.png",
+        "normal": "materials/wood01/normal.png",
+        "roughness": "materials/wood01/roughness.png",
+        "ao": "materials/wood01/ao.png",
+        "height": "materials/wood01/height.png",
+        "metallic": "materials/wood01/metallic.png"
+      },
+      "resolutions": ["512x512", "1024x1024", "2048x2048"],
+      "default_resolution": "1024x1024"
+    }
+  ]
+}
